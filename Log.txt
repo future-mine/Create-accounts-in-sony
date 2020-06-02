@@ -1,0 +1,30 @@
+ 
+
+
+ @@ : Fri May 29 03:04:38 2020
+23.94.3.228:24557
+start
+[:--->> Open first page
+2t9j9j3n
+[:--->> Input Email and password.
+<!---->
+Success
+[:--->> Checking Captcha
+[:--->> Captcha activated.
+[:--->> solving ref captcha...
+[:--->> waiting token......
+[:--->> waiting token......
+[:--->> waiting token......
+[:--->> waiting token......
+[:--->> waiting token......
+03AGdBq26G9x62AWDy6EfO9WBcgUdlCvw0qS4cr7s5dMc-T44x9L8kRdbt9mNycx-G-mNRh7IIowUSXLaU-I0AhCTB5XNHyAarTwgmjZOXoSFLXds9VgMmAX4cK2NykJL1WkKi_le9QJUemAlZbEWg9rpO3P200LNMNyOuNzoQtOvVMT0ugQltLEWUZiGWpTmM9C1nAKf9AP0ue7_wLhuzi5v6OPzQs_HHW2LLMYXW3RtzA3hteHtYOuL54cdBuZSaWtrnQEJ2uECm_BxYcQdJJe1twS8s80Is8frz-9D4TLp97SHlpDPxJNYQWmiggbwD33JfOmJ0R8F1O62BllRTFqxRYPfgYfyTuZtRduP9_QHOcBWzS1yMhSEk2lhWqat1lgJWUgsS7umIl09RLpoyDWtDqWtz0hKTm_3RJw5eUwdqW8TX6pMHIQ4
+[:--->> Excellent! avoid captcha!
+[:--->> Captcha didn't re-actived
+[:--->> Checking error
+<!---->
+Success
+[:--->> Input Birthday and State
+Unknown Error 2
+[:--->> Saving result data...
+
+
